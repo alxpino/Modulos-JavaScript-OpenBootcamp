@@ -21,8 +21,11 @@ import * as controller from "./controller.js";
 const a = controller.suma(1, 2);
 const b = controller.suma(4, 5);
 
+const c = controller.multiplica(a, b);
 
 import chalk from 'chalk';
 
-console.log(chalk.green("1 + 2 es " + a));
-console.log(chalk.green("4 + 5 es " + b));
+console.log(chalk.blue("1 + 2 es " + a));
+console.log(chalk.blue("4 + 5 es " + b));
+
+console.log(chalk.green("Su multiplicacion es " + c));
