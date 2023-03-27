@@ -1,0 +1,24 @@
+{
+  "name": "modulos-javascript-openbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxpino/Modulos-JavaScript-OpenBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxpino/Modulos-JavaScript-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/alxpino/Modulos-JavaScript-OpenBootcamp#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
